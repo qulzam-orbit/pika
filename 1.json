@@ -1,0 +1,21 @@
+{
+    "name": "Pika NFT #1",
+    "description": "This is an OG Pika NFT.",
+    "image": "ipfs://QmExampleHash123456/image1.png",
+    "external_url": "https://pikaverse.com/nft/1",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Sparkling"
+      },
+      {
+        "trait_type": "Level",
+        "value": 10
+      }
+    ]
+  }
+  
