@@ -2,7 +2,7 @@
     "name": "Pika NFT #1",
     "description": "This is an OG Pika NFT.",
     "image": "https://raw.githubusercontent.com/qulzam-orbit/pika/refs/heads/main/1.png",
-    "external_url": "https://pikaverse.com/nft/1",
+    "external_url": "https://raw.githubusercontent.com/qulzam-orbit/pika/refs/heads/main",
     "attributes": [
       {
         "trait_type": "Background",
